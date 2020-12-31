@@ -1,0 +1,7 @@
+server:
+  port: 19002
+  tomcat:
+    uri-encoding: UTF-8
+
+rocketmq:
+  name-server: 127.0.0.1:9876
